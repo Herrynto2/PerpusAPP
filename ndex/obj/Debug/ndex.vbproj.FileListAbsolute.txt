@@ -1,0 +1,14 @@
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\ndex.exe.config
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\ndex.exe
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\ndex.pdb
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\ndex.xml
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\MetroFramework.Design.dll
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\MetroFramework.dll
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\bin\Debug\MetroFramework.Fonts.dll
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.vbprojResolveAssemblyReference.cache
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.Form1.resources
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.Resources.resources
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.vbproj.GenerateResource.Cache
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.exe
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.xml
+c:\users\herry\documents\visual studio 2015\Projects\ndex\ndex\obj\Debug\ndex.pdb
